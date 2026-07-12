@@ -39,6 +39,3 @@
 </div>
 
 > *"Building intelligent software, automating processes, and delivering reliable IT solutions."*
-
-
-```
