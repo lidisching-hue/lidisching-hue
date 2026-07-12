@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=4FC3F7&center=true&vCenter=true&width=980&height=180&lines=%24+whoami;Lidis+Chinguel+Aponte;Systems+Engineering+Student+%40+Universidad+César+Vallejo;Full-Stack+Developer+%C2%B7+AI+Developer;Building+AI+Applications+%C2%B7+MCP+Servers+%C2%B7+Web+Platforms" alt="whoami"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=4FC3F7&center=true&vCenter=true&width=980&height=180&lines=%24+whoami;Lidis+Chinguel+Aponte;Systems+Engineering+%40+Universidad+César+Vallejo;Full-Stack+Developer+%C2%B7+AI+Developer;Building+AI+Applications+%C2%B7+MCP+Servers+%C2%B7+Web+Platforms" alt="whoami"/>
 </a>
 
 <br/>
